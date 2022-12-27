@@ -2,6 +2,9 @@
 
 ## Nota 1
 
+
+### comandos
+
 ### git status
 **verificar o status dos arquivos e pastas dentro do nosso repositório**
 
@@ -14,5 +17,7 @@
 ### git add [ caminho do arquivo]
 
 **adiciona um arquivo em específico**
+
+### giti commit
 
 ## Nota 2
