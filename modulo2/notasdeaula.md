@@ -18,6 +18,6 @@
 
 **adiciona um arquivo em específico**
 
-### giti commit
+### git commit
 
 ## Nota 2
